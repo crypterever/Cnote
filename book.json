@@ -1,8 +1,8 @@
 {
     "root": ".",
-    "title": "我的C语言笔记本",
+    "title": "我的C笔记本",
     "author": "Winnerzr",
-    "description": "Winnerzr's C语言 notebook",
+    "description": "Winnerzr's C notebook",
     "language": "zh-hans",
     "plugins": [
         "donate",
@@ -99,5 +99,5 @@
          "all": [
             "qq", "qzone","weibo"              
             ]
-        }
+      }
 }}
